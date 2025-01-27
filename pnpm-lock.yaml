@@ -1,6 +1,7 @@
 lockfileVersion: 5.3
 
 specifiers:
+  '15': 0.0.0
   '@testing-library/jest-dom': 5.11.9
   '@testing-library/react': 11.2.5
   '@testing-library/user-event': 12.6.2
@@ -24,6 +25,7 @@ specifiers:
   react-scripts: 4.0.3
 
 dependencies:
+  '15': 0.0.0
   '@testing-library/jest-dom': 5.11.9
   '@testing-library/react': 11.2.5_react-dom@17.0.1+react@17.0.1
   '@testing-library/user-event': 12.6.2
@@ -49,6 +51,10 @@ devDependencies:
   react-scripts: 4.0.3_react@17.0.1
 
 packages:
+
+  /15/0.0.0:
+    resolution: {integrity: sha512-PmLLpt8nbYGA1DyxTpYrwpSlR3+UgtcM+dZsjQ4t3P3MhK80GjWEMwTJHpnxGKxI+KQeJXDLlsw8fvkWP8MK3Q==}
+    dev: false
 
   /@aashutoshrathi/word-wrap/1.2.6:
     resolution: {integrity: sha512-1Yjs2SvM8TflER/OD3cOjhWWOZb58A2t7wpE2S9XfBYTiIl+XFhQG2bjy4Pu1I+EAlCNUzRDYDdFwFYUKvXcIA==}
